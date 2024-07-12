@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtq4
 - 👀 I’m interested in Codings
-- - - 😄 Pronouns: Full Stacked NodeJS Developer
+- 😄 Pronouns: Full Stacked NodeJS Developer
 - ⚡ Fun fact: I LIKE BHE
 
 <!---
